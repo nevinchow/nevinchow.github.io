@@ -3516,11 +3516,13 @@ input, select, textarea {
 }
 
 .resume {
-	margin-left: 6%;
+	margin-left: 8%;
 	font-size: 30px;
 	position: relative;
 	top: 25px;
-	color: white;
+	color: black;
+	text
+
 }
 
 .resume:hover {
