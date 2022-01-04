@@ -3510,3 +3510,19 @@ input, select, textarea {
 			}
 
 	}
+.navbar {
+	height: 80px;
+	background-color: rgb(37, 48, 59)
+}
+
+.resume {
+	margin-left: 6%;
+	font-size: 30px;
+	position: relative;
+	top: 25px;
+	color: white;
+}
+
+.resume:hover {
+	text-decoration: underline;
+}
